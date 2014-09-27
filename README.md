@@ -1,4 +1,4 @@
-fortran_lab_skel
+FortranLabSkeleton
 ================
 
-lab skeleton
+Use this repo to create default project structure
